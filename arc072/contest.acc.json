@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "arc072",
+    "title": "AtCoder Regular Contest 072",
+    "url": "https://atcoder.jp/contests/arc072"
+  },
+  "tasks": [
+    {
+      "id": "arc072_a",
+      "label": "C",
+      "title": "Sequence",
+      "url": "https://atcoder.jp/contests/arc072/tasks/arc072_a",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "arc072_b",
+      "label": "D",
+      "title": "Alice&Brown",
+      "url": "https://atcoder.jp/contests/arc072/tasks/arc072_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "arc072_c",
+      "label": "E",
+      "title": "Alice in linear land",
+      "url": "https://atcoder.jp/contests/arc072/tasks/arc072_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "arc072_d",
+      "label": "F",
+      "title": "Dam",
+      "url": "https://atcoder.jp/contests/arc072/tasks/arc072_d",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
